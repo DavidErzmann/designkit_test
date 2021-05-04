@@ -1,6 +1,7 @@
 {
   "designkit_test": {
     "Overview": "/",
-    "DesignKit test": "/core"
+    "DesignKit test Nr 2": "/core",
+    "DesignKit test": "/test_example"
   }
 }

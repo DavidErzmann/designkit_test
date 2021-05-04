@@ -2,9 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {"say_hello": "test_example.ipynb",
+         "say_goodbye": "00_core.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "test_example.py"]
 
 doc_url = "https://daviderzmann.github.io/designkit_test/"
 

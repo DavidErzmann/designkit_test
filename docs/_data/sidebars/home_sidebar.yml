@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: DesignKit test
+      title: DesignKit test Nr 2
       url: /core
+    - output: web,pdf
+      title: DesignKit test
+      url: /test_example
     output: web
     title: designkit_test
   output: web
